@@ -1,1 +1,3 @@
 # TP Binome -Travail Collaboratif avec git 
+ Modification par Etudiant 2
+Ajout d'une session collaborative
